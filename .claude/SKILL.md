@@ -277,7 +277,7 @@ packages = [{include = "projeto", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
-pydantic = "^2.6.0"
+pydantic = "^2.6.0"g
 requests = "^2.31.0"
 
 [tool.poetry.group.dev.dependencies]
